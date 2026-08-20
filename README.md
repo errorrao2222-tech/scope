@@ -1,7 +1,7 @@
 <div align="center">
     <img src="resources/branding/app_icon/raw.png"
-        title="Quill" alt="Quill logo" width="120" />
-    <h1>Quill</h1>
+        title="Scope" alt="Scope logo" width="120" />
+    <h1>Scope</h1>
     <p>
         The browser built for the trenches.
         <br>
@@ -12,12 +12,12 @@
 ## Status
 
 > [!WARNING]
-> Quill is pre-release and has never been built or published. The rebrand is
+> Scope is pre-release and has never been built or published. The rebrand is
 > complete; the items under [Before you ship](#before-you-ship) are not.
 
-## What Quill is
+## What Scope is
 
-Quill is a white-label fork of [Helium](https://github.com/imputnet/helium) by
+Scope is a white-label fork of [Helium](https://github.com/imputnet/helium) by
 [imputnet](https://github.com/imputnet). Helium is itself based on
 [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium),
 which is based on [Chromium](https://www.chromium.org/).
@@ -27,14 +27,14 @@ tooling. It is **not** a Chromium checkout — the build downloads Chromium's
 official source tarball and applies the 321 patches in [`patches/`](patches/)
 on top of it.
 
-Everything Quill inherits from Helium is intact: built-in uBlock Origin as a
+Everything Scope inherits from Helium is intact: built-in uBlock Origin as a
 bundled component, canvas/audio/hardware-concurrency fingerprint noise, split
 ClientHello, DNS-over-HTTPS, vertical tabs and zen mode, and end-to-end
-encrypted sync. See [`patches/quill/`](patches/quill/) for the full set.
+encrypted sync. See [`patches/scope/`](patches/scope/) for the full set.
 
 ## Building
 
-Quill has no platform packaging repo of its own yet. Building requires
+Scope has no platform packaging repo of its own yet. Building requires
 rebranding one of Helium's platform repos to consume this one:
 
 | Platform | Upstream packaging repo |
@@ -56,11 +56,11 @@ The rebrand is done, but these are deliberate open decisions, not oversights:
   Helium's artwork. Shipping it publicly would be using imputnet's branding.
   Replace before any public release.
 - **Outbound endpoints.** Crash reporting, update checks, and the services
-  backend point at `*.quill.invalid`, which never resolves — so Quill does not
+  backend point at `*.scope.invalid`, which never resolves — so Scope does not
   phone home to imputnet, and equally has no crash reporting or auto-updates.
   Point them at real infrastructure or leave them dead.
 - **Issue tracker.** The in-app "report a bug" link points at
-  `github.com/YOUR-ORG/quill`. Update it.
+  `github.com/YOUR-ORG/scope`. Update it.
 - **uBlock filter lists.** Still fetched from
   `raw.githubusercontent.com/imputnet/helium-services`. They work, but you are
   using imputnet's bandwidth. Mirror them.
@@ -72,22 +72,22 @@ different name; the configuration block at the top is the only thing to edit.
 
 ## License
 
-Quill is licensed under **GPL-3.0**, inherited from Helium. See [LICENSE](LICENSE).
+Scope is licensed under **GPL-3.0**, inherited from Helium. See [LICENSE](LICENSE).
 
-This means if you distribute Quill — including as a binary — you must make the
+This means if you distribute Scope — including as a binary — you must make the
 complete corresponding source available under GPL-3.0, retain the copyright
 notices, and keep the license intact. Content imported from other projects
 retains its original license; unmodified ungoogled-chromium code remains under
 their [BSD 3-Clause license](LICENSE.ungoogled_chromium).
 
-Quill is not affiliated with or endorsed by imputnet, Helium, ungoogled-chromium,
+Scope is not affiliated with or endorsed by imputnet, Helium, ungoogled-chromium,
 or Google.
 
 ## Credits
 
 - [The Chromium Project](https://www.chromium.org/) — the engine underneath everything
 - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) — de-Googling patchset
-- [Helium](https://github.com/imputnet/helium) — the browser Quill is forked from
+- [Helium](https://github.com/imputnet/helium) — the browser Scope is forked from
 - Patches also imported from [Inox](https://github.com/gcarq/inox-patchset),
   [Debian](https://tracker.debian.org/pkg/chromium-browser),
   [Bromite](https://github.com/bromite/bromite),

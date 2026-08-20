@@ -1,6 +1,6 @@
-# Quill AI Agent Guidelines
+# Scope AI Agent Guidelines
 
-Quill is a white-label fork of [Helium](https://github.com/imputnet/helium).
+Scope is a white-label fork of [Helium](https://github.com/imputnet/helium).
 This file replaces the upstream AGENTS.md, which stated imputnet's policy for
 *their* repository. That policy still binds anything sent upstream.
 
@@ -8,14 +8,14 @@ This file replaces the upstream AGENTS.md, which stated imputnet's policy for
 
 - **Never open issues or pull requests against `imputnet/*` repositories.**
   Helium's maintainers prohibit AI-assisted contributions and ban contributors
-  who submit them. Quill's changes stay in Quill.
+  who submit them. Scope's changes stay in Scope.
 - **Never strip GPL copyright notices.** Lines of the form
   `Copyright <year> The Helium Authors` must survive every rebrand and refactor.
   `rebrand.sh` protects them deliberately — do not "clean them up".
 - **Never rename these**, they are load-bearing:
   - `helium_onboarding` — the extraction path fixed by `deps.ini`
   - any `imputnet/...` URL in `deps.ini` — build-time downloads
-  - `patches/quill/core/update-credits.patch` — upstream attribution
+  - `patches/scope/core/update-credits.patch` — upstream attribution
 
 ## Working in this repo
 

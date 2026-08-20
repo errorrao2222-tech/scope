@@ -27,7 +27,7 @@ body:
     id: version
     attributes:
       label: Version
-      description: Can be copied from quill://settings/help
+      description: Can be copied from scope://settings/help
     validations:
       required: true
   - type: checkboxes
@@ -48,7 +48,7 @@ body:
     id: crashid
     attributes:
       label: Crash ID
-      description: If applicable, provide the crash ID from quill://crashes.
+      description: If applicable, provide the crash ID from scope://crashes.
   - type: textarea
     id: repro
     attributes:

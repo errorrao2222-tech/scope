@@ -1,12 +1,12 @@
-# Contributing to Quill
+# Contributing to Scope
 
-This repository contains Quill's shared Chromium patches, resources, and
+This repository contains Scope's shared Chromium patches, resources, and
 development tooling. Platform-specific packaging and build environments live in
 the platform repositories:
 
-- [Helium for macOS](https://github.com/imputnet/helium-macos) (upstream - Quill has no packaging repo yet)
-- [Helium for Linux](https://github.com/imputnet/helium-linux) (upstream - Quill has no packaging repo yet)
-- [Helium for Windows](https://github.com/imputnet/helium-windows) (upstream - Quill has no packaging repo yet)
+- [Helium for macOS](https://github.com/imputnet/helium-macos) (upstream - Scope has no packaging repo yet)
+- [Helium for Linux](https://github.com/imputnet/helium-linux) (upstream - Scope has no packaging repo yet)
+- [Helium for Windows](https://github.com/imputnet/helium-windows) (upstream - Scope has no packaging repo yet)
 
 The same contribution guidelines apply to all platform repos.
 
@@ -69,12 +69,12 @@ When working in a platform repository, the usual workflow is:
 ## Code style
 
 - Follow Chromium style and conventions.
-- Prefer existing Chromium or Quill patterns over introducing new abstractions.
+- Prefer existing Chromium or Scope patterns over introducing new abstractions.
 - Keep changes focused and minimal.
 - Proofread surrounding code before submitting.
-- When adding new Quill-authored files to the Chromium tree, include the Quill
+- When adding new Scope-authored files to the Chromium tree, include the Scope
   copyright header used in other patches.
-- Refer to existing Quill patches for guidance if necessary.
+- Refer to existing Scope patches for guidance if necessary.
 
 ## Git style
 
@@ -87,11 +87,11 @@ obviously.
 Examples of titles from recent history as of writing:
 
 ```
-- quill/ui/layout: add a ⌘+S shortcut to toggle vertical tabs
-- quill/ui/pdf-viewer: fix stuck width when sidebar's collapsed
+- scope/ui/layout: add a ⌘+S shortcut to toggle vertical tabs
+- scope/ui/pdf-viewer: fix stuck width when sidebar's collapsed
 - deps: update ublock to 1.70.0
 - merge: update to chromium 146.0.7680.75
-- quill/core/keyboard-shortcuts: update command state correctly
+- scope/core/keyboard-shortcuts: update command state correctly
 ```
 
 The part before the colon should describe the area being changed (scope),
@@ -112,7 +112,7 @@ in most places (such as GitHub). For example, this final commit title is
 exactly 72 characters long:
 
 ```
-quill/ui/customize: add change wallpaper button, fix visibility (#1053)
+scope/ui/customize: add change wallpaper button, fix visibility (#1053)
 ```
 
 If a multi-commit pull request contains uninformative or malformed commit
@@ -154,7 +154,7 @@ changes into several follow-up PRs if necessary.
 
 ## Licensing
 
-By contributing to Quill, you agree that your changes will be licensed under
+By contributing to Scope, you agree that your changes will be licensed under
 the repository's existing licensing terms.
 
 <!-- Long referenced links -->

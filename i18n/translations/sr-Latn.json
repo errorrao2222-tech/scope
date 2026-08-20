@@ -1,18 +1,18 @@
 [
   {
     "name": "IDS_SETTINGS_PERFORMANCE_MEMORY_SAVER_MODE_SETTING_DESCRIPTION",
-    "source": "Quill frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Quill fast. Your inactive tabs automatically become active again when you go back to them.",
-    "message": "Quill oslobađa memoriju iz neaktivnih kartica. Ovo daje aktivnim karticama i drugim aplikacijama više računarskih resursa i održava Quill brzim. Vaše neaktivne kartice automatski ponovo postaju aktivne kada se vratite na njih."
+    "source": "Scope frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Scope fast. Your inactive tabs automatically become active again when you go back to them.",
+    "message": "Scope oslobađa memoriju iz neaktivnih kartica. Ovo daje aktivnim karticama i drugim aplikacijama više računarskih resursa i održava Scope brzim. Vaše neaktivne kartice automatski ponovo postaju aktivne kada se vratite na njih."
   },
   {
     "name": "IDS_SETTINGS_PERFORMANCE_BATTERY_SAVER_MODE_SETTING_DESCRIPTION",
-    "source": "Quill conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates.",
-    "message": "Quill štedi bateriju ograničavanjem pozadinske aktivnosti i vizuelnih efekata, kao što su glatko skrolovanje i broj frejmova videa."
+    "source": "Scope conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates.",
+    "message": "Scope štedi bateriju ograničavanjem pozadinske aktivnosti i vizuelnih efekata, kao što su glatko skrolovanje i broj frejmova videa."
   },
   {
     "name": "IDS_SETTINGS_PERFORMANCE_PRELOAD_TOGGLE_SUMMARY",
-    "source": "Quill preloads pages which makes browsing and searching faster.",
-    "message": "Quill unapred učitava stranice što čini pregledanje i pretragu bržim."
+    "source": "Scope preloads pages which makes browsing and searching faster.",
+    "message": "Scope unapred učitava stranice što čini pregledanje i pretragu bržim."
   },
   {
     "name": "IDS_SETTINGS_PERFORMANCE_TAB_DISCARDING_EXCEPTIONS_ADD_DIALOG_HELP",
@@ -31,9 +31,9 @@
   },
   {
     "name": "IDS_IMPORTED_FROM_BOOKMARK_FOLDER",
-    "source": "Imported from <ph name=\"BROWSER_NAME\">$1<ex>Quill</ex></ph>",
-    "message": "Uvezeno iz <ph name=\"BROWSER_NAME\">$1<ex>Quill</ex></ph>",
-    "feminine": "Uvezeno iz <ph name=\"BROWSER_NAME\">$1<ex>Quill</ex></ph>"
+    "source": "Imported from <ph name=\"BROWSER_NAME\">$1<ex>Scope</ex></ph>",
+    "message": "Uvezeno iz <ph name=\"BROWSER_NAME\">$1<ex>Scope</ex></ph>",
+    "feminine": "Uvezeno iz <ph name=\"BROWSER_NAME\">$1<ex>Scope</ex></ph>"
   },
   {
     "name": "IDS_EXTENSIONS_IMPORTER_LOCK_TITLE",
@@ -46,87 +46,87 @@
     "message": "Da biste nastavili sa uvozom podataka, prvo zatvorite pregledač iz kojeg uvozite."
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES",
-    "source": "Quill services",
-    "message": "Quill usluge"
+    "name": "IDS_SETTINGS_SCOPE_SERVICES",
+    "source": "Scope services",
+    "message": "Scope usluge"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_DESCRIPTION",
-    "source": "Manage what Quill services are allowed in your browser",
-    "message": "Upravljajte time koje Quill usluge su dozvoljene u vašem pregledaču"
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_DESCRIPTION",
+    "source": "Manage what Scope services are allowed in your browser",
+    "message": "Upravljajte time koje Scope usluge su dozvoljene u vašem pregledaču"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SCHEMA_NOTICE_TITLE",
-    "source": "Updates to Quill services:",
-    "message": "Ažuriranja Quill usluga:"
+    "name": "IDS_SETTINGS_SCOPE_SCHEMA_NOTICE_TITLE",
+    "source": "Updates to Scope services:",
+    "message": "Ažuriranja Scope usluga:"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SCHEMA_NOTICE_DESCRIPTION",
+    "name": "IDS_SETTINGS_SCOPE_SCHEMA_NOTICE_DESCRIPTION",
     "source": "These changes are not active until you dismiss this notice.",
     "message": "Ove promene neće biti aktivne dok ne odbacite ovo obaveštenje."
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SCHEMA_IGNORE",
+    "name": "IDS_SETTINGS_SCOPE_SCHEMA_IGNORE",
     "source": "Don't notify me again",
     "message": "Ne obaveštavaj me ponovo"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_TOGGLE",
-    "source": "Allow connecting to Quill services",
-    "message": "Dozvoli povezivanje sa Quill uslugama"
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_TOGGLE",
+    "source": "Allow connecting to Scope services",
+    "message": "Dozvoli povezivanje sa Scope uslugama"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_TOGGLE_DESCRIPTION",
-    "source": "When enabled, Quill will be able to connect to anonymous web services to provide additional functionality. When disabled, additional features will not work.",
-    "message": "Kada je omogućeno, Quill će moći da se poveže sa anonimnim veb uslugama kako bi pružio dodatnu funkcionalnost. Kada je onemogućeno, dodatne funkcije neće raditi."
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_TOGGLE_DESCRIPTION",
+    "source": "When enabled, Scope will be able to connect to anonymous web services to provide additional functionality. When disabled, additional features will not work.",
+    "message": "Kada je omogućeno, Scope će moći da se poveže sa anonimnim veb uslugama kako bi pružio dodatnu funkcionalnost. Kada je onemogućeno, dodatne funkcije neće raditi."
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_OVERRIDE",
-    "source": "Use your own instance of Quill services",
-    "message": "Koristite sopstvenu instancu Quill usluga"
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_OVERRIDE",
+    "source": "Use your own instance of Scope services",
+    "message": "Koristite sopstvenu instancu Scope usluga"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_OVERRIDE_DESCRIPTION",
-    "source": "You can host your own instance of Quill services and use it in your browser instead of the default one. HTTPS only.",
-    "message": "Možete hostovati sopstvenu instancu Quill usluga i koristiti je u svom pregledaču umesto podrazumevane. Samo HTTPS."
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_OVERRIDE_DESCRIPTION",
+    "source": "You can host your own instance of Scope services and use it in your browser instead of the default one. HTTPS only.",
+    "message": "Možete hostovati sopstvenu instancu Scope usluga i koristiti je u svom pregledaču umesto podrazumevane. Samo HTTPS."
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_OVERRIDE_DESCRIPTION_WARNING",
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_OVERRIDE_DESCRIPTION_WARNING",
     "source": "Do not use this field unless you know exactly what you are doing. Never paste URLs from other people here, they are trying to steal your data. We are not responsible for any damages caused by using a custom server and will not be able to help you.",
     "message": "Ne koristite ovo polje osim ako tačno znate šta radite. Nikada ne lepite URL-ove od drugih ljudi ovde, pokušavaju da ukradu vaše podatke. Nismo odgovorni za bilo kakvu štetu prouzrokovanu korišćenjem prilagođenog servera i nećemo moći da vam pomognemo."
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_OVERRIDE_ARIA_LABEL",
-    "source": "Custom origin URL for Quill services",
-    "message": "Prilagođeni URL izvora za Quill usluge"
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_OVERRIDE_ARIA_LABEL",
+    "source": "Custom origin URL for Scope services",
+    "message": "Prilagođeni URL izvora za Scope usluge"
   },
   {
-    "name": "IDS_APPMENU_TOOLTIP_QUILL_SERVICES_UPDATE",
-    "source": "Quill services have been updated. Please review the changes.",
-    "message": "Quill usluge su ažurirane. Pregledajte promene."
+    "name": "IDS_APPMENU_TOOLTIP_SCOPE_SERVICES_UPDATE",
+    "source": "Scope services have been updated. Please review the changes.",
+    "message": "Scope usluge su ažurirane. Pregledajte promene."
   },
   {
-    "name": "IDS_QUILL_SERVICES_SCHEMA_MENU_ITEM",
-    "source": "Review Quill services updates",
-    "message": "Pregledajte ažuriranja Quill usluga"
+    "name": "IDS_SCOPE_SERVICES_SCHEMA_MENU_ITEM",
+    "source": "Review Scope services updates",
+    "message": "Pregledajte ažuriranja Scope usluga"
   },
   {
-    "name": "IDS_APP_MENU_BUTTON_QUILL_SERVICES_UPDATE",
+    "name": "IDS_APP_MENU_BUTTON_SCOPE_SERVICES_UPDATE",
     "source": "Services updated",
     "message": "Usluge ažurirane"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_SETUP_PENDING_TEXT",
-    "source": "Quill services are not available until setup is complete to ensure your privacy and consent.",
-    "message": "Quill usluge nisu dostupne dok se podešavanje ne završi kako bi se obezbedila vaša privatnost i saglasnost."
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_SETUP_PENDING_TEXT",
+    "source": "Scope services are not available until setup is complete to ensure your privacy and consent.",
+    "message": "Scope usluge nisu dostupne dok se podešavanje ne završi kako bi se obezbedila vaša privatnost i saglasnost."
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_SETUP_PENDING_BUTTON",
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_SETUP_PENDING_BUTTON",
     "source": "Complete setup",
     "message": "Završite podešavanje"
   },
   {
-    "name": "IDS_SEARCH_ENGINE_CHOICE_SETTINGS_SUBTITLE_QUILL",
+    "name": "IDS_SEARCH_ENGINE_CHOICE_SETTINGS_SUBTITLE_SCOPE",
     "source": "This list of search engines is shown in random order.",
     "message": "Ova lista pretraživača je prikazana nasumičnim redosledom."
   },
@@ -151,54 +151,54 @@
     "message": "Omogući brzo kopiranje linka stranice pomoću Ctrl+Shift+C"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_EXT_PROXY_TOGGLE",
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_EXT_PROXY_TOGGLE",
     "source": "Proxy extension downloads and updates",
     "message": "Proksiranje preuzimanja i ažuriranja ekstenzija"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_EXT_PROXY_TOGGLE_DESCRIPTION",
-    "source": "When enabled, Quill will proxy extension downloads and updates to protect your privacy. When disabled, downloading and updating extensions will not work.",
-    "message": "Kada je omogućeno, Quill će proksirati preuzimanja i ažuriranja ekstenzija kako bi zaštitio vašu privatnost. Kada je onemogućeno, preuzimanje i ažuriranje ekstenzija neće raditi."
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_EXT_PROXY_TOGGLE_DESCRIPTION",
+    "source": "When enabled, Scope will proxy extension downloads and updates to protect your privacy. When disabled, downloading and updating extensions will not work.",
+    "message": "Kada je omogućeno, Scope će proksirati preuzimanja i ažuriranja ekstenzija kako bi zaštitio vašu privatnost. Kada je onemogućeno, preuzimanje i ažuriranje ekstenzija neće raditi."
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_BANGS_TOGGLE",
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_BANGS_TOGGLE",
     "source": "Allow downloading the !bangs list",
     "message": "Dozvoli preuzimanje liste !bangs komandi"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_BANGS_TOGGLE_DESCRIPTION",
-    "source": "Quill will fetch a list of bangs that help you browse the Internet faster, such as !w or !gh. When disabled, bangs will not work.",
-    "message": "Quill će preuzeti listu bangs komandi koje vam pomažu da brže pretražujete internet, kao što su !w ili !gh. Kada je onemogućeno, bangs komande neće raditi."
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_BANGS_TOGGLE_DESCRIPTION",
+    "source": "Scope will fetch a list of bangs that help you browse the Internet faster, such as !w or !gh. When disabled, bangs will not work.",
+    "message": "Scope će preuzeti listu bangs komandi koje vam pomažu da brže pretražujete internet, kao što su !w ili !gh. Kada je onemogućeno, bangs komande neće raditi."
   },
   {
-    "name": "IDS_SETTINGS_LANGUAGES_DICTIONARY_DOWNLOAD_FAILED_HELP_QUILL",
-    "source": "Please check that Quill services are enabled (including spell check downloads) and make sure that the firewall is not blocking downloads from Quill servers.",
-    "message": "Proverite da li su Quill usluge omogućene (uključujući preuzimanje rečnika za proveru pravopisa) i uverite se da zaštitni zid ne blokira preuzimanja sa Quill servera."
+    "name": "IDS_SETTINGS_LANGUAGES_DICTIONARY_DOWNLOAD_FAILED_HELP_SCOPE",
+    "source": "Please check that Scope services are enabled (including spell check downloads) and make sure that the firewall is not blocking downloads from Scope servers.",
+    "message": "Proverite da li su Scope usluge omogućene (uključujući preuzimanje rečnika za proveru pravopisa) i uverite se da zaštitni zid ne blokira preuzimanja sa Scope servera."
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_SPELLCHECK_TOGGLE",
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_SPELLCHECK_TOGGLE",
     "source": "Allow downloading dictionary files for spell checking",
     "message": "Dozvoli preuzimanje datoteka rečnika za proveru pravopisa"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_SPELLCHECK_TOGGLE_DESCRIPTION",
-    "source": "Quill will fetch dictionary files used for spell checking when requested. When disabled, spell checking will not work.",
-    "message": "Quill će preuzimati datoteke rečnika koje se koriste za proveru pravopisa kada je to potrebno. Kada je onemogućeno, provera pravopisa neće raditi."
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_SPELLCHECK_TOGGLE_DESCRIPTION",
+    "source": "Scope will fetch dictionary files used for spell checking when requested. When disabled, spell checking will not work.",
+    "message": "Scope će preuzimati datoteke rečnika koje se koriste za proveru pravopisa kada je to potrebno. Kada je onemogućeno, provera pravopisa neće raditi."
   },
   {
     "name": "IDS_SETTINGS_ABOUT_PAGE_BROWSER_VERSION",
-    "source": "Version <ph name=\"QUILL_PRODUCT_VERSION\">$1<ex>0.0.0.0</ex></ph> (<ph name=\"PRODUCT_CHANNEL\">$4<ex>Developer Build</ex></ph>, <ph name=\"CHROMIUM_NAME\">$7</ph> <ph name=\"PRODUCT_VERSION\">$2<ex>15.0.865.0</ex></ph><ph name=\"PRODUCT_VERSION_SUFFIX\">$3<ex>-r123456</ex></ph>) <ph name=\"PRODUCT_MODIFIER\">$5</ph> <ph name=\"PRODUCT_VERSION_BITS\">$6</ph>",
-    "message": "Verzija <ph name=\"QUILL_PRODUCT_VERSION\">$1<ex>0.0.0.0</ex></ph> (<ph name=\"PRODUCT_CHANNEL\">$4<ex>Developer Build</ex></ph>, <ph name=\"CHROMIUM_NAME\">$7</ph> <ph name=\"PRODUCT_VERSION\">$2<ex>15.0.865.0</ex></ph><ph name=\"PRODUCT_VERSION_SUFFIX\">$3<ex>-r123456</ex></ph>) <ph name=\"PRODUCT_MODIFIER\">$5</ph> <ph name=\"PRODUCT_VERSION_BITS\">$6</ph>"
+    "source": "Version <ph name=\"SCOPE_PRODUCT_VERSION\">$1<ex>0.0.0.0</ex></ph> (<ph name=\"PRODUCT_CHANNEL\">$4<ex>Developer Build</ex></ph>, <ph name=\"CHROMIUM_NAME\">$7</ph> <ph name=\"PRODUCT_VERSION\">$2<ex>15.0.865.0</ex></ph><ph name=\"PRODUCT_VERSION_SUFFIX\">$3<ex>-r123456</ex></ph>) <ph name=\"PRODUCT_MODIFIER\">$5</ph> <ph name=\"PRODUCT_VERSION_BITS\">$6</ph>",
+    "message": "Verzija <ph name=\"SCOPE_PRODUCT_VERSION\">$1<ex>0.0.0.0</ex></ph> (<ph name=\"PRODUCT_CHANNEL\">$4<ex>Developer Build</ex></ph>, <ph name=\"CHROMIUM_NAME\">$7</ph> <ph name=\"PRODUCT_VERSION\">$2<ex>15.0.865.0</ex></ph><ph name=\"PRODUCT_VERSION_SUFFIX\">$3<ex>-r123456</ex></ph>) <ph name=\"PRODUCT_MODIFIER\">$5</ph> <ph name=\"PRODUCT_VERSION_BITS\">$6</ph>"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_UBO",
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_UBO",
     "source": "Allow downloading filter lists for uBlock Origin",
     "message": "Dozvoli preuzimanje lista filtera za uBlock Origin"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_UBO_DESCRIPTION",
-    "source": "Quill will fetch fresh filter lists for uBlock Origin. All requests to lists are proxied to protect your privacy. When disabled, default filter lists will be loaded from local storage, which are only updated along with Quill. Optional filter lists will be requested without proxying.",
-    "message": "Quill će preuzimati sveže liste filtera za uBlock Origin. Svi zahtevi za liste se proksiraju radi zaštite vaše privatnosti. Kada je onemogućeno, podrazumevane liste filtera će se učitavati iz lokalnog skladišta, a ažuriraju se samo zajedno sa Quill-om. Opcione liste filtera će se zahtevati bez proksiranja."
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_UBO_DESCRIPTION",
+    "source": "Scope will fetch fresh filter lists for uBlock Origin. All requests to lists are proxied to protect your privacy. When disabled, default filter lists will be loaded from local storage, which are only updated along with Scope. Optional filter lists will be requested without proxying.",
+    "message": "Scope će preuzimati sveže liste filtera za uBlock Origin. Svi zahtevi za liste se proksiraju radi zaštite vaše privatnosti. Kada je onemogućeno, podrazumevane liste filtera će se učitavati iz lokalnog skladišta, a ažuriraju se samo zajedno sa Scope-om. Opcione liste filtera će se zahtevati bez proksiranja."
   },
   {
     "name": "IDS_SETTINGS_NEW_TAB_NEXT_TO_ACTIVE_BUTTON",
@@ -211,9 +211,9 @@
     "message": "Prelazi kroz kartice po redosledu poslednje korišćenih pomoću Ctrl+Tab"
   },
   {
-    "name": "IDS_COMPONENTS_SVC_STATUS_ERROR_QUILL_SERVICES",
-    "source": "Component updates are disabled. See Quill services in settings.",
-    "message": "Ažuriranja komponenti su onemogućena. Pogledajte Quill usluge u podešavanjima."
+    "name": "IDS_COMPONENTS_SVC_STATUS_ERROR_SCOPE_SERVICES",
+    "source": "Component updates are disabled. See Scope services in settings.",
+    "message": "Ažuriranja komponenti su onemogućena. Pogledajte Scope usluge u podešavanjima."
   },
   {
     "name": "IDS_TAB_CXMENU_HIBERNATE",
@@ -226,22 +226,22 @@
     "message": "Upravljajte dozvolama sajtova i podešavanjima sadržaja (kolačići, iskačući prozori i još mnogo toga)"
   },
   {
-    "name": "IDS_SETTINGS_ALLOWED_THIRD_PARTY_COOKIES_DESCRIPTION_QUILL",
+    "name": "IDS_SETTINGS_ALLOWED_THIRD_PARTY_COOKIES_DESCRIPTION_SCOPE",
     "source": "Affects the sites listed here. Inserting “[*.]” before a domain name creates an exception for the entire domain. For example, adding “[*.]example.com” means that third-party cookies can also be active for second.example.com, because it’s part of example.com.",
     "message": "Utiče na ovde navedene sajtove. Umetanje „[*.]\" ispred naziva domena kreira izuzetak za ceo domen. Na primer, dodavanje „[*.]example.com\" znači da kolačići trećih strana mogu biti aktivni i za second.example.com, jer je deo domena example.com."
   },
   {
-    "name": "IDS_SETTINGS_SUGGEST_PREF_DESC_QUILL",
-    "source": "When you type in the address bar, Quill sends what you type to your default search engine to get suggestions. This is off in Incognito.",
-    "message": "Kada kucate u traci za adresu, Quill šalje ono što kucate vašem podrazumevanom pretraživaču da bi dobio predloge. Ovo je isključeno u režimu bez arhiviranja."
+    "name": "IDS_SETTINGS_SUGGEST_PREF_DESC_SCOPE",
+    "source": "When you type in the address bar, Scope sends what you type to your default search engine to get suggestions. This is off in Incognito.",
+    "message": "Kada kucate u traci za adresu, Scope šalje ono što kucate vašem podrazumevanom pretraživaču da bi dobio predloge. Ovo je isključeno u režimu bez arhiviranja."
   },
   {
-    "name": "IDS_SETTINGS_SUGGEST_PREF_QUILL",
+    "name": "IDS_SETTINGS_SUGGEST_PREF_SCOPE",
     "source": "Suggestions from the search engine",
     "message": "Predlozi od pretraživača"
   },
   {
-    "name": "IDS_SETTINGS_AUTO_PIN_NEW_TAB_GROUPS_QUILL",
+    "name": "IDS_SETTINGS_AUTO_PIN_NEW_TAB_GROUPS_SCOPE",
     "source": "Automatically pin new tab groups to the bookmarks bar",
     "message": "Automatski zakači nove grupe kartica na traku obeleživača"
   },
@@ -257,8 +257,8 @@
   },
   {
     "name": "IDS_POLICY_SOURCE_HOP",
-    "source": "Quill defaults",
-    "message": "Quill podrazumevane vrednosti"
+    "source": "Scope defaults",
+    "message": "Scope podrazumevane vrednosti"
   },
   {
     "name": "IDS_ACCNAME_APP_MENU",
@@ -266,9 +266,9 @@
     "message": "Glavni meni"
   },
   {
-    "name": "IDS_DOWNLOAD_BUBBLE_INTERRUPTED_SUBPAGE_SUMMARY_QUILL_SERVICES_DISABLED",
-    "source": "Extension downloads are disabled. Enable this feature in Quill services settings and try again.",
-    "message": "Preuzimanja ekstenzija su onemogućena. Omogućite ovu funkciju u podešavanjima Quill usluga i pokušajte ponovo."
+    "name": "IDS_DOWNLOAD_BUBBLE_INTERRUPTED_SUBPAGE_SUMMARY_SCOPE_SERVICES_DISABLED",
+    "source": "Extension downloads are disabled. Enable this feature in Scope services settings and try again.",
+    "message": "Preuzimanja ekstenzija su onemogućena. Omogućite ovu funkciju u podešavanjima Scope usluga i pokušajte ponovo."
   },
   {
     "name": "IDS_DOWNLOAD_BUBBLE_INTERRUPTED_EXTENSION_DL_DISABLED",
@@ -281,14 +281,14 @@
     "message": "Promeni pozadinu"
   },
   {
-    "name": "IDS_NEW_TAB_OTR_SUBTITLE_QUILL",
-    "source": "Quill will not save anything about your browsing in Incognito, but downloads and bookmarks will stick around. Your browsing won't leave any traces on this device, and other users won't be able to see your activity.",
-    "message": "Quill neće sačuvati ništa o vašem pregledanju u režimu bez arhiviranja, ali preuzimanja i obeleživači će ostati. Vaše pregledanje neće ostaviti tragove na ovom uređaju i drugi korisnici neće moći da vide vašu aktivnost."
+    "name": "IDS_NEW_TAB_OTR_SUBTITLE_SCOPE",
+    "source": "Scope will not save anything about your browsing in Incognito, but downloads and bookmarks will stick around. Your browsing won't leave any traces on this device, and other users won't be able to see your activity.",
+    "message": "Scope neće sačuvati ništa o vašem pregledanju u režimu bez arhiviranja, ali preuzimanja i obeleživači će ostati. Vaše pregledanje neće ostaviti tragove na ovom uređaju i drugi korisnici neće moći da vide vašu aktivnost."
   },
   {
-    "name": "IDS_EXTENSIONS_INSTALL_LOCATION_QUILL",
-    "source": "Quill component",
-    "message": "Quill komponenta"
+    "name": "IDS_EXTENSIONS_INSTALL_LOCATION_SCOPE",
+    "source": "Scope component",
+    "message": "Scope komponenta"
   },
   {
     "name": "IDS_SETTINGS_BROWSER_LAYOUT",
@@ -372,8 +372,8 @@
   },
   {
     "name": "IDS_SETTINGS_DEFAULT_BROWSER_SECONDARY",
-    "source": "Quill cannot be set as default, because no <ph name=\"DESKTOP_FILENAME\">$1<ex>quill.desktop</ex></ph> file was found in any of: ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications.",
-    "message": "Quill ne može biti postavljen kao podrazumevani pregledač jer datoteka <ph name=\"DESKTOP_FILENAME\">$1<ex>quill.desktop</ex></ph> nije pronađena ni u jednom od sledećih direktorijuma: ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications."
+    "source": "Scope cannot be set as default, because no <ph name=\"DESKTOP_FILENAME\">$1<ex>scope.desktop</ex></ph> file was found in any of: ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications.",
+    "message": "Scope ne može biti postavljen kao podrazumevani pregledač jer datoteka <ph name=\"DESKTOP_FILENAME\">$1<ex>scope.desktop</ex></ph> nije pronađena ni u jednom od sledećih direktorijuma: ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications."
   },
   {
     "name": "IDS_SETTINGS_CHOOSE_CUSTOM_AVATAR_FILE",
@@ -422,8 +422,8 @@
   },
   {
     "name": "IDS_IMPORT_FULL_DISK_ACCESS_DIALOG_MESSAGE",
-    "source": "Quill needs Full Disk Access to import your Bookmarks from Safari.",
-    "message": "Quill-u je potreban pun pristup disku za uvoz obeleživača iz Safari-ja."
+    "source": "Scope needs Full Disk Access to import your Bookmarks from Safari.",
+    "message": "Scope-u je potreban pun pristup disku za uvoz obeleživača iz Safari-ja."
   },
   {
     "name": "IDS_IMPORT_FULL_DISK_ACCESS_DIALOG_LINK",
@@ -436,7 +436,7 @@
     "message": "Otvori Podešavanja sistema"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_OVERRIDE_INVALID_ORIGIN",
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_OVERRIDE_INVALID_ORIGIN",
     "source": "Invalid origin",
     "message": "Nevažeći izvor"
   },
@@ -681,24 +681,24 @@
     "message": "Otvorena je nova kartica"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_UPDATE",
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_UPDATE",
     "source": "Allow automatic browser updates",
     "message": "Dozvoli automatska ažuriranja pregledača"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_UPDATE_DESCRIPTION",
-    "source": "Quill will automatically check for updates and install them. This includes browser and component updates. We recommend keeping this setting enabled to ensure you get the latest features and security updates.",
-    "message": "Quill će automatski proveravati da li postoje ažuriranja i instalirati ih. To obuhvata ažuriranja pregledača i komponenti. Preporučujemo da ovo podešavanje ostane omogućeno kako biste dobijali najnovije funkcije i bezbednosna ažuriranja."
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_UPDATE_DESCRIPTION",
+    "source": "Scope will automatically check for updates and install them. This includes browser and component updates. We recommend keeping this setting enabled to ensure you get the latest features and security updates.",
+    "message": "Scope će automatski proveravati da li postoje ažuriranja i instalirati ih. To obuhvata ažuriranja pregledača i komponenti. Preporučujemo da ovo podešavanje ostane omogućeno kako biste dobijali najnovije funkcije i bezbednosna ažuriranja."
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_UPDATE",
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_UPDATE",
     "source": "Allow automatic component updates",
     "message": "Dozvoli automatska ažuriranja komponenti"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_SERVICES_UPDATE_DESCRIPTION",
-    "source": "Quill will automatically check for component updates and install them. We recommend keeping this setting enabled. On Linux, browser updates are handled by your distro's package manager. Please check for Quill package updates at least every week.",
-    "message": "Quill će automatski proveravati da li postoje ažuriranja komponenti i instalirati ih. Preporučujemo da ovo podešavanje ostane omogućeno. Na Linux-u, ažuriranjima pregledača upravlja menadžer paketa vaše distribucije. Proveravajte ažuriranja Quill paketa bar jednom nedeljno."
+    "name": "IDS_SETTINGS_SCOPE_SERVICES_UPDATE_DESCRIPTION",
+    "source": "Scope will automatically check for component updates and install them. We recommend keeping this setting enabled. On Linux, browser updates are handled by your distro's package manager. Please check for Scope package updates at least every week.",
+    "message": "Scope će automatski proveravati da li postoje ažuriranja komponenti i instalirati ih. Preporučujemo da ovo podešavanje ostane omogućeno. Na Linux-u, ažuriranjima pregledača upravlja menadžer paketa vaše distribucije. Proveravajte ažuriranja Scope paketa bar jednom nedeljno."
   },
   {
     "name": "IDS_TAB_CXMENU_HIBERNATE_OTHER_TABS",
@@ -741,62 +741,62 @@
     "message": "Automatski sakrij UI pregledača dok ne pređete pokazivačem preko ivice prozora"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_BUTTON_NEXT",
+    "name": "IDS_SCOPE_ONBOARDING_BUTTON_NEXT",
     "source": "Next",
     "message": "Dalje"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_DEFAULT_BROWSER_YES",
+    "name": "IDS_SCOPE_ONBOARDING_DEFAULT_BROWSER_YES",
     "source": "Yes",
     "message": "Da"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_DATA_IMPORT_HISTORY",
+    "name": "IDS_SCOPE_ONBOARDING_DATA_IMPORT_HISTORY",
     "source": "History",
     "message": "Istorija"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PASSWORD_INSTALLED",
+    "name": "IDS_SCOPE_ONBOARDING_PASSWORD_INSTALLED",
     "source": "Installed",
     "message": "Instalirano"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PASSWORD_INSTALL",
+    "name": "IDS_SCOPE_ONBOARDING_PASSWORD_INSTALL",
     "source": "Install",
     "message": "Instaliraj"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_BUTTON_BACK",
+    "name": "IDS_SCOPE_ONBOARDING_BUTTON_BACK",
     "source": "Back",
     "message": "Nazad"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_DEFAULT_BROWSER_NO",
+    "name": "IDS_SCOPE_ONBOARDING_DEFAULT_BROWSER_NO",
     "source": "No",
     "message": "Ne"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PASSWORD_PRIVACY",
+    "name": "IDS_SCOPE_ONBOARDING_PASSWORD_PRIVACY",
     "source": "Privacy",
     "message": "Privatnost"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_DATA_IMPORT_EXTENSIONS",
+    "name": "IDS_SCOPE_ONBOARDING_DATA_IMPORT_EXTENSIONS",
     "source": "Extensions",
     "message": "Dodaci"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_BUTTON_CONFIGURE",
+    "name": "IDS_SCOPE_ONBOARDING_BUTTON_CONFIGURE",
     "source": "Configure",
     "message": "Konfiguriši"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PASSWORD_IMPORT_GUIDE",
+    "name": "IDS_SCOPE_ONBOARDING_PASSWORD_IMPORT_GUIDE",
     "source": "Import",
     "message": "Uvezi"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_DATA_IMPORT_BOOKMARKS",
+    "name": "IDS_SCOPE_ONBOARDING_DATA_IMPORT_BOOKMARKS",
     "source": "Bookmarks",
     "message": "Obeleživači"
   },
@@ -821,64 +821,64 @@
     "message": "Prinudno prikaži kontekstualni meni sa Shift+desni klik"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_CRASH_REPORTING_TITLE",
+    "name": "IDS_SETTINGS_SCOPE_CRASH_REPORTING_TITLE",
     "source": "Crash reporting",
     "message": "Prijavljivanje otkazivanja"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_CRASH_REPORTING_DESCRIPTION",
-    "source": "Choose whether Quill can ask to send crash reports or send them automatically. Disabling reports will delete all pending reports.",
-    "message": "Izaberite da li Quill može da traži slanje izveštaja o otkazivanju ili da ih šalje automatski. Onemogućavanje izveštaja će izbrisati sve izveštaje na čekanju."
+    "name": "IDS_SETTINGS_SCOPE_CRASH_REPORTING_DESCRIPTION",
+    "source": "Choose whether Scope can ask to send crash reports or send them automatically. Disabling reports will delete all pending reports.",
+    "message": "Izaberite da li Scope može da traži slanje izveštaja o otkazivanju ili da ih šalje automatski. Onemogućavanje izveštaja će izbrisati sve izveštaje na čekanju."
   },
   {
-    "name": "IDS_SETTINGS_QUILL_CRASH_REPORTING_DISABLED",
+    "name": "IDS_SETTINGS_SCOPE_CRASH_REPORTING_DISABLED",
     "source": "Disabled",
     "message": "Onemogućeno"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_CRASH_REPORTING_ASK",
+    "name": "IDS_SETTINGS_SCOPE_CRASH_REPORTING_ASK",
     "source": "Ask after a crash",
     "message": "Pitaj nakon otkazivanja"
   },
   {
-    "name": "IDS_SETTINGS_QUILL_CRASH_REPORTING_AUTOMATIC",
+    "name": "IDS_SETTINGS_SCOPE_CRASH_REPORTING_AUTOMATIC",
     "source": "Send automatically",
     "message": "Šalji automatski"
   },
   {
-    "name": "IDS_QUILL_CRASH_REPORTING_DIALOG_TITLE",
+    "name": "IDS_SCOPE_CRASH_REPORTING_DIALOG_TITLE",
     "source": "{COUNT, plural, =1 {Would you like to send a crash report?} other {Would you like to send # crash reports?}}",
     "message": "{COUNT, plural, =1 {Želite li da pošaljete izveštaj o otkazivanju?} one {Želite li da pošaljete # izveštaj o otkazivanju?} few {Želite li da pošaljete # izveštaja o otkazivanju?} other {Želite li da pošaljete # izveštaja o otkazivanju?}}"
   },
   {
-    "name": "IDS_QUILL_CRASH_REPORTING_DIALOG_DESCRIPTION",
-    "source": "Quill closed unexpectedly. A crash report could help us fix the issue you ran into and prevent it from happening again.",
-    "message": "Quill se neočekivano zatvorio. Izveštaj o otkazivanju bi mogao da nam pomogne da rešimo problem na koji ste naišli i sprečimo da se ponovo dogodi."
+    "name": "IDS_SCOPE_CRASH_REPORTING_DIALOG_DESCRIPTION",
+    "source": "Scope closed unexpectedly. A crash report could help us fix the issue you ran into and prevent it from happening again.",
+    "message": "Scope se neočekivano zatvorio. Izveštaj o otkazivanju bi mogao da nam pomogne da rešimo problem na koji ste naišli i sprečimo da se ponovo dogodi."
   },
   {
-    "name": "IDS_QUILL_CRASH_REPORTING_DIALOG_PRIVACY",
-    "source": "A crash report may incidentally include some sensitive data present in Quill's memory at the time of crash.",
-    "message": "Izveštaj o otkazivanju može slučajno uključiti neke osetljive podatke koji su bili u memoriji programa Quill u trenutku otkazivanja."
+    "name": "IDS_SCOPE_CRASH_REPORTING_DIALOG_PRIVACY",
+    "source": "A crash report may incidentally include some sensitive data present in Scope's memory at the time of crash.",
+    "message": "Izveštaj o otkazivanju može slučajno uključiti neke osetljive podatke koji su bili u memoriji programa Scope u trenutku otkazivanja."
   },
   {
-    "name": "IDS_QUILL_CRASH_REPORTING_DIALOG_OPTIONAL",
+    "name": "IDS_SCOPE_CRASH_REPORTING_DIALOG_OPTIONAL",
     "source": "Nothing has been sent yet. Sending a crash report is optional.",
     "message": "Ništa još nije poslato. Slanje izveštaja o otkazivanju je opciono."
   },
   {
-    "name": "IDS_QUILL_CRASH_REPORTING_DIALOG_SEND_REPORT",
+    "name": "IDS_SCOPE_CRASH_REPORTING_DIALOG_SEND_REPORT",
     "source": "{COUNT, plural, =1 {Send Report} other {Send # Reports}}",
     "message": "{COUNT, plural, =1 {Pošalji izveštaj} one {Pošalji # izveštaj} few {Pošalji # izveštaja} other {Pošalji # izveštaja}}"
   },
   {
-    "name": "IDS_QUILL_CRASH_REPORTING_DIALOG_SEND_REPORT",
+    "name": "IDS_SCOPE_CRASH_REPORTING_DIALOG_SEND_REPORT",
     "source": "{COUNT, plural, =1 {Send report} other {Send # reports}}",
     "message": "{COUNT, plural, =1 {Pošalji izveštaj} one {Pošalji # izveštaj} few {Pošalji # izveštaja} other {Pošalji # izveštaja}}"
   },
   {
     "name": "IDS_CRASH_DISABLED_MESSAGE",
-    "source": "Crash reporting is disabled in Quill settings or by policy.",
-    "message": "Prijavljivanje otkazivanja je onemogućeno u Quill podešavanjima ili smernicom."
+    "source": "Crash reporting is disabled in Scope settings or by policy.",
+    "message": "Prijavljivanje otkazivanja je onemogućeno u Scope podešavanjima ili smernicom."
   },
   {
     "name": "IDS_CRASH_BUG_LINK_LABEL",
@@ -906,204 +906,204 @@
     "message": "Prevedi „<ph name=\"SELECTION_TEXT\">$1<ex>Bonjour</ex></ph>”"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PAGE_TITLE",
-    "source": "Quill Setup",
-    "message": "Quill podešavanje"
+    "name": "IDS_SCOPE_ONBOARDING_PAGE_TITLE",
+    "source": "Scope Setup",
+    "message": "Scope podešavanje"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_BUTTON_USE_DEFAULTS",
+    "name": "IDS_SCOPE_ONBOARDING_BUTTON_USE_DEFAULTS",
     "source": "Use defaults",
     "message": "Koristi podrazumevano"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_BUTTON_LETS_GO",
+    "name": "IDS_SCOPE_ONBOARDING_BUTTON_LETS_GO",
     "source": "Let's go!",
     "message": "Krenimo!"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PARTNER_TITLE",
-    "source": "Quill Partner",
-    "message": "Quill partner"
+    "name": "IDS_SCOPE_ONBOARDING_PARTNER_TITLE",
+    "source": "Scope Partner",
+    "message": "Scope partner"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PARTNER_TOOLTIP",
-    "source": "Paying for this service will support the development of Quill.",
-    "message": "Plaćanje ove usluge će podržati razvoj programa Quill."
+    "name": "IDS_SCOPE_ONBOARDING_PARTNER_TOOLTIP",
+    "source": "Paying for this service will support the development of Scope.",
+    "message": "Plaćanje ove usluge će podržati razvoj programa Scope."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_WELCOME_GREETING",
-    "source": "Meet Quill",
-    "message": "Upoznajte Quill"
+    "name": "IDS_SCOPE_ONBOARDING_WELCOME_GREETING",
+    "source": "Meet Scope",
+    "message": "Upoznajte Scope"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_FINISH_TITLE",
+    "name": "IDS_SCOPE_ONBOARDING_FINISH_TITLE",
     "source": "Ready to browse?",
     "message": "Spremni za pregledanje?",
     "feminine": "Spremne za pregledanje?"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_TITLE",
-    "source": "Quill services",
-    "message": "Quill usluge"
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_TITLE",
+    "source": "Scope services",
+    "message": "Scope usluge"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_SUBTITLE",
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_SUBTITLE",
     "source": "Services are not active until you consent to using them. Changes will be applied after you go to the next page.",
     "message": "Usluge nisu aktivne dok ne pristanete na njihovo korišćenje. Promene će biti primenjene nakon što pređete na sledeću stranicu."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_CONNECTION_TITLE",
-    "source": "Allow connecting to Quill services",
-    "message": "Dozvoli povezivanje sa Quill uslugama"
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_CONNECTION_TITLE",
+    "source": "Allow connecting to Scope services",
+    "message": "Dozvoli povezivanje sa Scope uslugama"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_CONNECTION_DESC",
-    "source": "Quill services provide additional functionality, such as: extension downloads, native !bangs, filter list updates, and browser updates. When disabled, none of these features will work, but Quill will not make any web requests.",
-    "message": "Quill usluge pružaju dodatne funkcije, kao što su: preuzimanje dodataka, izvorni !bang-ovi, ažuriranja lista filtera i ažuriranja pregledača. Kada su onemogućene, nijedna od ovih funkcija neće raditi, ali Quill neće slati nijedan veb zahtev."
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_CONNECTION_DESC",
+    "source": "Scope services provide additional functionality, such as: extension downloads, native !bangs, filter list updates, and browser updates. When disabled, none of these features will work, but Scope will not make any web requests.",
+    "message": "Scope usluge pružaju dodatne funkcije, kao što su: preuzimanje dodataka, izvorni !bang-ovi, ažuriranja lista filtera i ažuriranja pregledača. Kada su onemogućene, nijedna od ovih funkcija neće raditi, ali Scope neće slati nijedan veb zahtev."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_BANGS_TITLE",
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_BANGS_TITLE",
     "source": "Allow downloading the !bangs list",
     "message": "Dozvoli preuzimanje liste !bang-ova"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_BANGS_DESC",
-    "source": "Quill will fetch a list of bangs that help you browse the Internet faster, such as !w or !gh. When disabled, bangs will not work.",
-    "message": "Quill će preuzeti listu bang-ova koji vam pomažu da brže pregledate internet, kao što su !w ili !gh. Kada je onemogućeno, bang-ovi neće raditi."
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_BANGS_DESC",
+    "source": "Scope will fetch a list of bangs that help you browse the Internet faster, such as !w or !gh. When disabled, bangs will not work.",
+    "message": "Scope će preuzeti listu bang-ova koji vam pomažu da brže pregledate internet, kao što su !w ili !gh. Kada je onemogućeno, bang-ovi neće raditi."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_EXTENSIONS_TITLE",
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_EXTENSIONS_TITLE",
     "source": "Proxy extension downloads and updates",
     "message": "Koristi proksi za preuzimanja i ažuriranja dodataka"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_EXTENSIONS_DESC",
-    "source": "When enabled, Quill will proxy extension downloads and updates to protect your privacy. When disabled, downloading and updating extensions will not work.",
-    "message": "Kada je omogućeno, Quill će preusmeravati preuzimanja i ažuriranja dodataka preko proksija radi zaštite vaše privatnosti. Kada je onemogućeno, preuzimanje i ažuriranje dodataka neće raditi."
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_EXTENSIONS_DESC",
+    "source": "When enabled, Scope will proxy extension downloads and updates to protect your privacy. When disabled, downloading and updating extensions will not work.",
+    "message": "Kada je omogućeno, Scope će preusmeravati preuzimanja i ažuriranja dodataka preko proksija radi zaštite vaše privatnosti. Kada je onemogućeno, preuzimanje i ažuriranje dodataka neće raditi."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_UBLOCK_TITLE",
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_UBLOCK_TITLE",
     "source": "Allow downloading filter lists for uBlock Origin",
     "message": "Dozvoli preuzimanje lista filtera za uBlock Origin"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_UBLOCK_DESC",
-    "source": "Quill will fetch fresh filter lists for uBlock Origin. All requests to lists are proxied to protect your privacy. When disabled, default filter lists will be loaded from local storage, which are only updated along with Quill. Optional filter lists will be requested without proxying.",
-    "message": "Quill će preuzeti sveže liste filtera za uBlock Origin. Svi zahtevi za listama se preusmeravaju preko proksija radi zaštite vaše privatnosti. Kada je onemogućeno, podrazumevane liste filtera će se učitavati iz lokalnog skladišta i ažuriraju se samo zajedno sa programom Quill. Opcione liste filtera će se zahtevati bez proksija."
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_UBLOCK_DESC",
+    "source": "Scope will fetch fresh filter lists for uBlock Origin. All requests to lists are proxied to protect your privacy. When disabled, default filter lists will be loaded from local storage, which are only updated along with Scope. Optional filter lists will be requested without proxying.",
+    "message": "Scope će preuzeti sveže liste filtera za uBlock Origin. Svi zahtevi za listama se preusmeravaju preko proksija radi zaštite vaše privatnosti. Kada je onemogućeno, podrazumevane liste filtera će se učitavati iz lokalnog skladišta i ažuriraju se samo zajedno sa programom Scope. Opcione liste filtera će se zahtevati bez proksija."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_AUTOUPDATES_TITLE",
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_AUTOUPDATES_TITLE",
     "source": "Allow automatic browser updates",
     "message": "Dozvoli automatska ažuriranja pregledača"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_AUTOUPDATES_DESC",
-    "source": "Quill will automatically check for updates and install them. This includes browser and component updates. We recommend keeping this setting enabled to ensure you get the latest features and security updates.",
-    "message": "Quill će automatski proveravati ima li ažuriranja i instalirati ih. To uključuje ažuriranja pregledača i komponenti. Preporučujemo da ovo podešavanje ostane omogućeno kako biste dobili najnovije funkcije i bezbednosna ažuriranja."
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_AUTOUPDATES_DESC",
+    "source": "Scope will automatically check for updates and install them. This includes browser and component updates. We recommend keeping this setting enabled to ensure you get the latest features and security updates.",
+    "message": "Scope će automatski proveravati ima li ažuriranja i instalirati ih. To uključuje ažuriranja pregledača i komponenti. Preporučujemo da ovo podešavanje ostane omogućeno kako biste dobili najnovije funkcije i bezbednosna ažuriranja."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_AUTOUPDATES_TITLE_LINUX",
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_AUTOUPDATES_TITLE_LINUX",
     "source": "Allow automatic component updates",
     "message": "Dozvoli automatska ažuriranja komponenti"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_AUTOUPDATES_DESC_LINUX",
-    "source": "Quill will automatically check for component updates and install them. We recommend keeping this setting enabled. On Linux, browser updates are handled by your distro's package manager. Please check for Quill package updates at least every week.",
-    "message": "Quill će automatski proveravati ima li ažuriranja komponenti i instalirati ih. Preporučujemo da ovo podešavanje ostane omogućeno. Na Linuksu, ažuriranjima pregledača upravlja menadžer paketa vaše distribucije. Proveravajte ima li ažuriranja Quill paketa barem jednom nedeljno."
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_AUTOUPDATES_DESC_LINUX",
+    "source": "Scope will automatically check for component updates and install them. We recommend keeping this setting enabled. On Linux, browser updates are handled by your distro's package manager. Please check for Scope package updates at least every week.",
+    "message": "Scope će automatski proveravati ima li ažuriranja komponenti i instalirati ih. Preporučujemo da ovo podešavanje ostane omogućeno. Na Linuksu, ažuriranjima pregledača upravlja menadžer paketa vaše distribucije. Proveravajte ima li ažuriranja Scope paketa barem jednom nedeljno."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_SPELLCHECK_TITLE",
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_SPELLCHECK_TITLE",
     "source": "Allow downloading dictionary files for spell checking",
     "message": "Dozvoli preuzimanje datoteka rečnika za proveru pravopisa"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_SPELLCHECK_DESC",
-    "source": "Quill will fetch dictionary files used for spell checking when requested. When disabled, spell checking will not work.",
-    "message": "Quill će preuzimati datoteke rečnika koje se koriste za proveru pravopisa kada su potrebne. Kada je onemogućeno, provera pravopisa neće raditi."
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_SPELLCHECK_DESC",
+    "source": "Scope will fetch dictionary files used for spell checking when requested. When disabled, spell checking will not work.",
+    "message": "Scope će preuzimati datoteke rečnika koje se koriste za proveru pravopisa kada su potrebne. Kada je onemogućeno, provera pravopisa neće raditi."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_INSTANCE_TITLE",
-    "source": "Use your own instance of Quill services",
-    "message": "Koristi sopstvenu instancu Quill usluga"
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_INSTANCE_TITLE",
+    "source": "Use your own instance of Scope services",
+    "message": "Koristi sopstvenu instancu Scope usluga"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SERVICES_INSTANCE_DESC",
-    "source": "You can host your own instance of Quill services and use it in your browser instead of the pre-hosted server. If you have one, you can set it in Quill settings.",
-    "message": "Možete hostovati sopstvenu instancu Quill usluga i koristiti je u svom pregledaču umesto unapred hostovanog servera. Ako je imate, možete je podesiti u Quill podešavanjima."
+    "name": "IDS_SCOPE_ONBOARDING_SERVICES_INSTANCE_DESC",
+    "source": "You can host your own instance of Scope services and use it in your browser instead of the pre-hosted server. If you have one, you can set it in Scope settings.",
+    "message": "Možete hostovati sopstvenu instancu Scope usluga i koristiti je u svom pregledaču umesto unapred hostovanog servera. Ako je imate, možete je podesiti u Scope podešavanjima."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_CATEGORIES_PRIVATE",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_CATEGORIES_PRIVATE",
     "source": "A privacy-first search engine which doesn't profile or track you.",
     "message": "Pretraživač koji privatnost stavlja na prvo mesto i ne profiliše vas niti prati."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_CATEGORIES_SMALL",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_CATEGORIES_SMALL",
     "source": "Transparent, but not privacy-focused. Offers better privacy than mainstream search engines.",
     "message": "Transparentan, ali nije usmeren na privatnost. Nudi bolju privatnost od mejnstrim pretraživača."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_CATEGORIES_MAINSTREAM",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_CATEGORIES_MAINSTREAM",
     "source": "A mainstream search engine which collects extensive personal data.",
     "message": "Mejnstrim pretraživač koji prikuplja opsežne lične podatke."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_CATEGORIES_CUSTOM",
-    "source": "A custom search engine. Its privacy wasn't verified by Quill.",
-    "message": "Prilagođeni pretraživač. Njegovu privatnost Quill nije proverio."
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_CATEGORIES_CUSTOM",
+    "source": "A custom search engine. Its privacy wasn't verified by Scope.",
+    "message": "Prilagođeni pretraživač. Njegovu privatnost Scope nije proverio."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_ENGINES_BING",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_ENGINES_BING",
     "source": "Collects extensive personal data. Privacy controls are buried and limited. Subjectively overwhelming UI.",
     "message": "Prikuplja opsežne lične podatke. Kontrole privatnosti su skrivene i ograničene. Subjektivno preopterećen interfejs."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_ENGINES_GOOGLE",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_ENGINES_GOOGLE",
     "source": "It's Google. It dominates the search market, collects extensive personal data, and profiles you.",
     "message": "To je Google. Dominira tržištem pretrage, prikuplja opsežne lične podatke i profiliše vas."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_DEFAULT_BROWSER_TITLE",
-    "source": "Ready to switch to Quill?",
-    "message": "Spremni da pređete na Quill?",
-    "feminine": "Spremne da pređete na Quill?"
+    "name": "IDS_SCOPE_ONBOARDING_DEFAULT_BROWSER_TITLE",
+    "source": "Ready to switch to Scope?",
+    "message": "Spremni da pređete na Scope?",
+    "feminine": "Spremne da pređete na Scope?"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_DEFAULT_BROWSER_YES_DESC",
-    "source": "Make Quill my default browser.",
-    "message": "Postavi Quill kao moj podrazumevani pregledač."
+    "name": "IDS_SCOPE_ONBOARDING_DEFAULT_BROWSER_YES_DESC",
+    "source": "Make Scope my default browser.",
+    "message": "Postavi Scope kao moj podrazumevani pregledač."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_DEFAULT_BROWSER_NO_DESC",
-    "source": "Just trying Quill for now.",
-    "message": "Za sada samo isprobavam Quill."
+    "name": "IDS_SCOPE_ONBOARDING_DEFAULT_BROWSER_NO_DESC",
+    "source": "Just trying Scope for now.",
+    "message": "Za sada samo isprobavam Scope."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_DATA_IMPORT_TITLE",
+    "name": "IDS_SCOPE_ONBOARDING_DATA_IMPORT_TITLE",
     "source": "Take your stuff with you",
     "message": "Ponesite svoje stvari sa sobom"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_DATA_IMPORT_SUBTITLE",
+    "name": "IDS_SCOPE_ONBOARDING_DATA_IMPORT_SUBTITLE",
     "source": "Transfer your most important bookmarks, history, and extensions from other browsers.",
     "message": "Prenesite svoje najvažnije obeleživače, istoriju i dodatke iz drugih pregledača."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PASSWORD_TITLE",
+    "name": "IDS_SCOPE_ONBOARDING_PASSWORD_TITLE",
     "source": "Password manager",
     "message": "Menadžer lozinki"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PASSWORD_SETUP_GUIDE",
+    "name": "IDS_SCOPE_ONBOARDING_PASSWORD_SETUP_GUIDE",
     "source": "Setup",
     "message": "Podešavanje"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PASSWORD_ERROR",
+    "name": "IDS_SCOPE_ONBOARDING_PASSWORD_ERROR",
     "source": "Error:",
     "message": "Greška:"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_PASSWORD_MANAGERS_DASHLANE",
+    "name": "IDS_SCOPE_ONBOARDING_PASSWORD_MANAGERS_DASHLANE",
     "source": "Popular, paid, and closed-source password manager. Stores data in Europe. Known for aggressive upselling tactics.",
     "message": "Popularan, plaćen menadžer lozinki zatvorenog koda. Čuva podatke u Evropi. Poznat po agresivnim taktikama dodatne prodaje."
   },
@@ -1114,8 +1114,8 @@
   },
   {
     "name": "IDS_SETTINGS_NOISE_LINK_DESCRIPTION",
-    "source": "Manage how Quill protects you against fingerprinting",
-    "message": "Upravljajte time kako vas Quill štiti od digitalnog otiska"
+    "source": "Manage how Scope protects you against fingerprinting",
+    "message": "Upravljajte time kako vas Scope štiti od digitalnog otiska"
   },
   {
     "name": "IDS_SETTINGS_NOISE_TOGGLE_DESCRIPTION",
@@ -1124,13 +1124,13 @@
   },
   {
     "name": "IDS_SETTINGS_NOISE_DESCRIPTION",
-    "source": "When fingerprinting protection is enabled, Quill adds noise to certain browser features to make it harder for sites to track and profile you. Each site sees consistent randomized information during your browsing session to reduce the chances of detection.",
-    "message": "Kada je zaštita od digitalnog otiska uključena, Quill dodaje šum određenim funkcijama pregledača kako bi sajtovima otežao praćenje i profilisanje. Svaki sajt vidi dosledno nasumične informacije tokom vaše sesije pregledanja, čime se smanjuje mogućnost otkrivanja."
+    "source": "When fingerprinting protection is enabled, Scope adds noise to certain browser features to make it harder for sites to track and profile you. Each site sees consistent randomized information during your browsing session to reduce the chances of detection.",
+    "message": "Kada je zaštita od digitalnog otiska uključena, Scope dodaje šum određenim funkcijama pregledača kako bi sajtovima otežao praćenje i profilisanje. Svaki sajt vidi dosledno nasumične informacije tokom vaše sesije pregledanja, čime se smanjuje mogućnost otkrivanja."
   },
   {
     "name": "IDS_SETTINGS_NOISE_DISCLAIMER",
-    "source": "Fingerprinting cannot be fully prevented, but Quill's analysis defenses make it harder to recover the original fingerprint.",
-    "message": "Digitalni otisak se ne može u potpunosti sprečiti, ali Quillove odbrane od analize otežavaju rekonstrukciju izvornog otiska."
+    "source": "Fingerprinting cannot be fully prevented, but Scope's analysis defenses make it harder to recover the original fingerprint.",
+    "message": "Digitalni otisak se ne može u potpunosti sprečiti, ali Scopeove odbrane od analize otežavaju rekonstrukciju izvornog otiska."
   },
   {
     "name": "IDS_SETTINGS_NOISE_CUSTOM_DESCRIPTION",
@@ -1148,67 +1148,67 @@
     "message": "Izuzeci koji dozvoljavaju zaštitu od digitalnog otiska"
   },
   {
-    "name": "IDS_PAGE_INFO_QUILL_NOISE_HEADER",
+    "name": "IDS_PAGE_INFO_SCOPE_NOISE_HEADER",
     "source": "Fingerprinting protection",
     "message": "Zaštita od digitalnog otiska"
   },
   {
-    "name": "IDS_PAGE_INFO_QUILL_NOISE_TOOLTIP",
+    "name": "IDS_PAGE_INFO_SCOPE_NOISE_TOOLTIP",
     "source": "Manage fingerprinting protection for this site",
     "message": "Upravljajte zaštitom od digitalnog otiska za ovaj sajt"
   },
   {
-    "name": "IDS_PAGE_INFO_QUILL_NOISE_DESCRIPTION",
-    "source": "When fingerprinting protection is enabled, Quill adds noise to certain browser features to make it harder for sites to track and profile you.",
-    "message": "Kada je zaštita od digitalnog otiska uključena, Quill dodaje šum određenim funkcijama pregledača kako bi sajtovima otežao praćenje i profilisanje."
+    "name": "IDS_PAGE_INFO_SCOPE_NOISE_DESCRIPTION",
+    "source": "When fingerprinting protection is enabled, Scope adds noise to certain browser features to make it harder for sites to track and profile you.",
+    "message": "Kada je zaštita od digitalnog otiska uključena, Scope dodaje šum određenim funkcijama pregledača kako bi sajtovima otežao praćenje i profilisanje."
   },
   {
-    "name": "IDS_PAGE_INFO_QUILL_NOISE_BREAKAGE",
+    "name": "IDS_PAGE_INFO_SCOPE_NOISE_BREAKAGE",
     "source": "Turning off the protection will reduce your privacy, but may fix site features that require fingerprinting.",
     "message": "Isključivanje zaštite smanjiće vašu privatnost, ali može popraviti funkcije sajta kojima je potreban digitalni otisak."
   },
   {
-    "name": "IDS_PAGE_INFO_QUILL_NOISE_GLOBALLY_DISABLED",
-    "source": "Fingerprinting protection is turned off in Quill settings.",
-    "message": "Zaštita od digitalnog otiska je isključena u Quill podešavanjima."
+    "name": "IDS_PAGE_INFO_SCOPE_NOISE_GLOBALLY_DISABLED",
+    "source": "Fingerprinting protection is turned off in Scope settings.",
+    "message": "Zaštita od digitalnog otiska je isključena u Scope podešavanjima."
   },
   {
-    "name": "IDS_PAGE_INFO_QUILL_NOISE_SETTINGS_BUTTON",
+    "name": "IDS_PAGE_INFO_SCOPE_NOISE_SETTINGS_BUTTON",
     "source": "Manage fingerprinting protection",
     "message": "Upravljaj zaštitom od digitalnog otiska"
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_WELCOME_TERMS",
+    "name": "IDS_SCOPE_ONBOARDING_WELCOME_TERMS",
     "source": "By continuing, you agree to the <ph name=\"BEGIN_LINK_PRIVACY\">$1</ph>privacy policy<ph name=\"END_LINK_PRIVACY\">$2</ph> and <ph name=\"BEGIN_LINK_TERMS\">$3</ph>terms of use<ph name=\"END_LINK_TERMS\">$4</ph>.",
     "message": "Nastavkom prihvatate <ph name=\"BEGIN_LINK_PRIVACY\">$1</ph>politiku privatnosti<ph name=\"END_LINK_PRIVACY\">$2</ph> i <ph name=\"BEGIN_LINK_TERMS\">$3</ph>uslove korišćenja<ph name=\"END_LINK_TERMS\">$4</ph>."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_ENGINES_DUCKDUCKGO",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_ENGINES_DUCKDUCKGO",
     "source": "Privacy-focused. Relies on Bing for results. Promises not to track or profile you.",
     "message": "Usmeren na privatnost. Oslanja se na Bing za rezultate. Obećava da vas neće pratiti niti profilisati."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_ENGINES_KAGI",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_ENGINES_KAGI",
     "source": "Privacy-focused. Doesn't use Google or Bing. Has custom ranking. Requires a paid account. No ads, tracking, or profiling.",
     "message": "Usmeren na privatnost. Ne koristi Google ni Bing. Ima prilagođeno rangiranje. Zahteva plaćeni nalog. Bez reklama, praćenja i profilisanja."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_ENGINES_QWANT",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_ENGINES_QWANT",
     "source": "Based in Europe. Relies on Bing for results. Sends tracking data to Microsoft.",
     "message": "Sa sedištem u Evropi. Oslanja se na Bing za rezultate. Šalje podatke o praćenju kompaniji Microsoft."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_ENGINES_ECOSIA",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_ENGINES_ECOSIA",
     "source": "May plant trees for clicking ads. Relies on Google and Bing for results. Sends tracking data to Google and Microsoft.",
     "message": "Može saditi drveće za klikove na reklame. Oslanja se na Google i Bing za rezultate. Šalje podatke o praćenju kompanijama Google i Microsoft."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_ENGINES_STARTPAGE",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_ENGINES_STARTPAGE",
     "source": "Privacy-focused. Relies on Google and Bing for results. Promises not to track or profile you.",
     "message": "Usmeren na privatnost. Oslanja se na Google i Bing za rezultate. Obećava da vas neće pratiti niti profilisati."
   },
   {
-    "name": "IDS_QUILL_ONBOARDING_SEARCH_ENGINES_BRAVE",
+    "name": "IDS_SCOPE_ONBOARDING_SEARCH_ENGINES_BRAVE",
     "source": "Privacy-focused. Doesn't use Google or Bing. Promises not to track or profile you. May show promotions related to Brave services.",
     "message": "Usmeren na privatnost. Ne koristi Google ni Bing. Obećava da vas neće pratiti niti profilisati. Može prikazivati promocije vezane za Brave usluge."
   }

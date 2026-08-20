@@ -4,7 +4,7 @@
 # You can use, redistribute, and/or modify this source code under
 # the terms of the GPL-3.0 license that can be found in the LICENSE file.
 """
-Replaces resources (such as icons) with Quill branding.
+Replaces resources (such as icons) with Scope branding.
 """
 
 import os
@@ -39,7 +39,7 @@ def main():
     """CLI entrypoint"""
     if len(sys.argv) != 4:
         print(
-            "Usage: python3 replace_resources.py <quill_resources.txt> " \
+            "Usage: python3 replace_resources.py <scope_resources.txt> " \
             "<resources_dir> <chromium_src_dir>"
         )
         sys.exit(1)

@@ -3,7 +3,7 @@
 # Copyright 2025 The Helium Authors
 # You can use, redistribute, and/or modify this source code under
 # the terms of the GPL-3.0 license that can be found in the LICENSE file.
-"""Script to replace instances of Chrome/Chromium with Quill"""
+"""Script to replace instances of Chrome/Chromium with Scope"""
 
 from concurrent.futures import ProcessPoolExecutor
 from tarfile import TarInfo
@@ -21,16 +21,16 @@ IGNORE_DIRS = ['.pc', 'chromeos', 'remoting', 'ash', 'testdata']
 def replacement_sanity():
     """Sanity check to ensure replacement regexes are working as intended"""
     before_after = [
-        ('chrome://about', 'quill://about'),
+        ('chrome://about', 'scope://about'),
         ('Chrome Root Program', 'Chrome Root Program'),
-        (' Chrome  ', ' Quill  '),
+        (' Chrome  ', ' Scope  '),
         ('Chrome Web Store', 'Chrome Web Store'),
         ('Chromium Web Store', 'Chromium Web Store'),
         ('Chrome Remote Desktop', 'Chrome Remote Desktop'),
-        ('Google Chrome', 'Quill'),
-        ('Chrome Google Chrome Chrome Chromium', 'Quill Quill Quill Quill'),
-        ('Chrome', 'Quill'),
-        ('Chromium', 'Quill'),
+        ('Google Chrome', 'Scope'),
+        ('Chrome Google Chrome Chrome Chromium', 'Scope Scope Scope Scope'),
+        ('Chrome', 'Scope'),
+        ('Chromium', 'Scope'),
     ]
 
     for source, expected in before_after:

@@ -4,7 +4,7 @@
 # You can use, redistribute, and/or modify this source code under
 # the terms of the GPL-3.0 license that can be found in the LICENSE file.
 """
-Generates scaled resources for Quill branding
+Generates scaled resources for Scope branding
 """
 
 import os
