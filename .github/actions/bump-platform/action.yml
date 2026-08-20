@@ -36,7 +36,7 @@ runs:
         }
 
         get_version() {
-          run_upstream utils/helium_version.py \
+          run_upstream utils/quill_version.py \
             --tree "$HELIUM_DIR" \
             --platform-tree "$PLATFORM_DIR" \
             --print
