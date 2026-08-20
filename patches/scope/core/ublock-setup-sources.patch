@@ -190,19 +190,19 @@
  			"https://ublockorigin.pages.dev/filters/badlists.txt",
  			"https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/badlists.txt"
 @@ -35,7 +32,6 @@
- 		"title": "Scope filters – Annoyances",
+ 		"title": "Helium filters – Annoyances",
  		"tags": "annoyances",
  		"contentURL": [
 -			"https://raw.githubusercontent.com/imputnet/helium-services/main/filters/helium-annoyances.txt",
- 			"assets/scope/annoyances.txt"
+ 			"assets/helium/annoyances.txt"
  		]
  	},
 @@ -45,7 +41,6 @@
- 		"parent": "Scope filters",
- 		"title": "Scope filters – Unbreak",
+ 		"parent": "Helium filters",
+ 		"title": "Helium filters – Unbreak",
  		"contentURL": [
 -			"https://raw.githubusercontent.com/imputnet/helium-services/main/filters/helium-unbreak.txt",
- 			"assets/scope/unbreak.txt"
+ 			"assets/helium/unbreak.txt"
  		]
  	},
 @@ -56,16 +51,15 @@
